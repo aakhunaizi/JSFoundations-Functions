@@ -35,10 +35,10 @@ function isOdd(n) {
  */
 function oddsSmallerThan(n) {
   const result = parseInt(n / 2);
-  console.log(result);
+  return result;
 }
 
-oddsSmallerThan(7);
+//oddsSmallerThan(7);
 //testing
 
 // oddsSmallerThan(15);
